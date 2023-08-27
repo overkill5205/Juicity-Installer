@@ -8,7 +8,7 @@ Always activate "Allow Insecure" on the client when using the provided share lin
 # 🚀 Quick Start
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/Juicity-Installer/main/juicity-installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/overkill5205/Juicity-Installer/main/juicity-installer.sh)
 
 ```
 
@@ -19,8 +19,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/Juicity-Installe
     🔄 Option to modify the listening port of an existing installation.
     🛡️ Secure uninstallation to completely remove Juicity server and configurations.
 
-For detailed instructions and support, refer to the script or open an issue.
-Find me on Twitter @NamelesGhoul
 
 ## برنامه NEKOBOX برای اندروید
 https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
@@ -29,3 +27,5 @@ https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3
 
 ### بعد از نصب پلاگین و اضافه کردن کانفیگ در Nekobox تیک allowInsecure رو باید فعال کنید
+
+Special Thanks to [iSegaro](https://twitter.com/iSegaro) for this amazing [tutorial](https://telegra.ph/How-to-start-the-TUIC-v5-protocol-with-iSegaro-08-26) and [NamlessGhoul](https://twitter.com/NamelesGhoul) to inspire me and help me with his [Juicity-Installer](https://github.com/deathline94/Juicity-Installer)
