@@ -28,4 +28,4 @@ https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3
 
 ### بعد از نصب پلاگین و اضافه کردن کانفیگ در Nekobox تیک allowInsecure رو باید فعال کنید
 
-Special Thanks to [iSegaro](https://twitter.com/iSegaro) for this amazing [tutorial](https://telegra.ph/How-to-start-the-TUIC-v5-protocol-with-iSegaro-08-26) and [NamlessGhoul](https://twitter.com/NamelesGhoul) to inspire me and help me with his [Juicity-Installer](https://github.com/deathline94/Juicity-Installer)
+Special Thanks to [IP_CF Team ](https://t.me/iP_CF) for this amazing [tutorial](https://telegra.ph/How-to-start-the-TUIC-v5-protocol-with-iSegaro-08-26) and [NamlessGhoul](https://twitter.com/NamelesGhoul) to inspire me and help me with his [Juicity-Installer](https://github.com/deathline94/Juicity-Installer)
